@@ -119,4 +119,4 @@ Current API endpoints cover essential functionalities, with more endpoints plann
 
 # Team
 
-This project is a work-in-progress and reflects ongoing efforts to build a comprehensive arbitrage platform for Steam marketplace items. Further contributions and developments are planned to enhance its capabilities and user experience. This project is currently being actively worked on by a single developer.
+This project is a work-in-progress and reflects ongoing efforts to build a comprehensive arbitrage platform for Steam marketplace items. Further contributions and developments are planned to enhance its capabilities and user experience. A single developer is actively working on this project.
